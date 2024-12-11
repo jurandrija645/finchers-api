@@ -1,5 +1,5 @@
 {
-  "name": "Microblog API",
+  "name": "Finchers API",
   "description": "A modern Flask API.",
   "repository": "https://github.com/miguelgrinberg/microblog-api",
   "env": {

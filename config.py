@@ -62,7 +62,7 @@ class Config:
         'http://localhost:3000/oauth2/{provider}/callback'
 
     # API documentation
-    APIFAIRY_TITLE = 'Microblog API'
+    APIFAIRY_TITLE = 'Finchers API'
     APIFAIRY_VERSION = '1.0'
     APIFAIRY_UI = os.environ.get('DOCS_UI', 'elements')
     APIFAIRY_TAGS = ['tokens', 'users', 'posts']
